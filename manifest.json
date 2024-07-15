@@ -1,0 +1,11 @@
+{
+    "name": "Sourcetree Assets Plugin",
+    "version": "1.0.0",
+    "description": "A plugin to display asset thumbnails in Sourcetree.",
+    "author": "Your Name",
+    "entry_point": "src/main.py",
+    "dependencies": [
+      "Pillow"
+    ]
+  }
+  
